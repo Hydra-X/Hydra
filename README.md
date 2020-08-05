@@ -13,6 +13,6 @@ Please Use The Hydra for Cyber Securty
 Hydra Is a Scanner Software
 
 Contact :
-# hydraxnone@gmail.com
+hydraxnone@gmail.com
 
 The Best Profesional Scanner Software
