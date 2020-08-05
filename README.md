@@ -1,4 +1,4 @@
-# Hydra
+Hydra
 # Hydra - The Best Profesional Scanner Software - Cyber Securty Software - Author : Hydra-X
 # Langue : Engilish
 # Programming Language : Python
