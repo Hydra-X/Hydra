@@ -194,11 +194,11 @@ This Is Web Scanner Software
         print("")
         print("\x1b[31;1mGoofile \x1b[0m")
 
-        os.system("goofile -d " + site + " -f asp")
-        os.system("goofile -d " + site + " -f edu")
-        os.system("goofile -d " + site + " -f net")
-        os.system("goofile -d " + site + " -f com")
-        os.system("goofile -d " + site + " -f gov")
+        os.system("goofile -d " + site99 + " -f asp")
+        os.system("goofile -d " + site99 + " -f edu")
+        os.system("goofile -d " + site99 + " -f net")
+        os.system("goofile -d " + site99 + " -f com")
+        os.system("goofile -d " + site99 + " -f gov")
         print("")
         print("\x1b[31;1mDmitry \x1b[0m")
 
